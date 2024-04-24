@@ -70,3 +70,4 @@ while ask_continue:
     play_again = input("Do you want to keep playing? Yes or No: ")
     if play_again.lower() != "yes":
         ask_continue = False
+    print("Thank you for playing!")
